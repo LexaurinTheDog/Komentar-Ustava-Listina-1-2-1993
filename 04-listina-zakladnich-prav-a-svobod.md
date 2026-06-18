@@ -41,6 +41,11 @@ Hlavní výkladové zásady:
 
 Ústavní soud opakovaně dovodil, že **materiální ohnisko ústavy** je nederogovatelné a tvoří hranici i pro ústavodárce — viz **Pl. ÚS 27/09** (zrušení ústavního zákona o zkrácení volebního období Poslanecké sněmovny, „kauza Melčák“). Soud zde poprvé v dějinách českého konstitucionalismu zrušil ústavní zákon pro rozpor s materiálním jádrem.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 19/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-13_1) — nález, 22. 10. 2013
+  > „Obsahem principu rovnosti v právech ve smyslu čl. 1 Listiny se ve své rozhodovací činnosti zabýval již Ústavní soud České a Slovenské Federativní Republiky, který v této souvislosti vyslovil závěr, že rovnost je třeba chápat jako kategorii relativní, nikoliv absolutní (nález sp. zn. Pl. ÚS 22/92 ze dne 8. 10. 1992, publikován pod č. 11 ve Sbírce usnesení a nálezů Ústavního soudu ČSFR)"
+
 ### Čl. 2 — Demokratický právní stát a princip enumerace veřejnoprávních pretenzí
 
 > **Čl. 2**
@@ -55,6 +60,11 @@ Hlavní výkladové zásady:
 **Odst. 2 — princip enumerace veřejnoprávních pretenzí** (zásada zákonnosti výkonu veřejné moci). Veřejná moc smí jednat pouze tam, kde ji k tomu zákon zmocňuje, a pouze způsobem, který zákon stanoví. Tento princip stojí v protikladu k principu pro jednotlivce vyjádřenému v odst. 3.
 
 **Odst. 3 — princip autonomie vůle (legální licence).** Jednotlivec smí činit vše, co mu zákon nezakazuje. Tento princip je **odvrácenou stranou** principu enumerace z odst. 2 a tvoří jádro liberálního pojetí svobody. Z hlediska zákazu sebeobviňování a obecné svobody jednání jej Ústavní soud chápe široce — viz nález **Pl. ÚS 33/97** (k ústavně konformnímu výkladu zákona o ochraně utajovaných skutečností) a **I. ÚS 643/06** k autonomii vůle.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 670/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-670-02) — nález, 7. 12. 2004
+  > „autonomie vůle, specificky ztělesněná v autonomii smluvní, tj. ve volnosti uzavírání smluv, nemůže znamenat pouze volnost výběru typů smluv, výběru spolukontrahenta, utváření obsahu smluv, volnost formy, ale znamená i možnost svobodně se dohodnout na zániku smluvního vztahu a na případných následcích dvoustranné dohody o zrušení smlouvy (o ukončení smluvního vztahu)"
 
 ### Čl. 3 — Rovnost a zákaz diskriminace
 
@@ -93,6 +103,11 @@ Odst. 3 zakazuje **šikanózní postup** veřejné moci proti tomu, kdo legitimn
 
 Z těchto pravidel Ústavní soud dovodil **test proporcionality** (Pl. ÚS 4/94): vhodnost — potřebnost — přiměřenost v užším smyslu (poměřování). U sociálních a hospodářských práv (čl. 26–35) ÚS používá zmírněný **test rozumnosti** (Pl. ÚS 1/08).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 936/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-936-07_1) — nález, 6. 9. 2007
+  > „Zejména je třeba respektovat zásadu, že při omezení základních práv a svobod musí být šetřeno jejich podstaty a smyslu a že taková omezení nesmějí být zneužívána k jiným účelům, než pro které byla stanovena (čl. 4 odst. 4 Listiny)"
+
 ---
 
 ## HLAVA DRUHÁ — Lidská práva a základní svobody
@@ -124,6 +139,11 @@ Z těchto pravidel Ústavní soud dovodil **test proporcionality** (Pl. ÚS 4/94
 
 **Odst. 4 — výjimky.** Listina nezavádí výjimky pro veřejnou moc (oproti čl. 2 odst. 2 EÚLP, který připouští „použití síly absolutně nezbytné“), nýbrž odkazuje na trestněprávně beztrestná jednání — zejména **nutnou obranu** a **krajní nouzi** (§ 28, 29 trestního zákoníku). Druhá věta uznává **právo na ozbrojenou sebeobranu** za zákonem stanovených podmínek; toto právo bylo v r. 2021 explicitně zakotveno doplněním čl. 6 odst. 4 ústavním zákonem č. 295/2021 Sb.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2930/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2930-13_2) — nález, 11. 11. 2014
+  > „Ochrana tělesné integrity je doplněním ustanovení o právu na život zakotveným v čl. 6 Listiny, a to zejména za účelem zajištění ochrany člověka v běhu jeho života i po fyzické stránce. Ochrana tělesné integrity je zakotvena taktéž v čl. 8 odst"
+
 ### Čl. 7 — Nedotknutelnost osoby a zákaz mučení
 
 > **Čl. 7**
@@ -143,6 +163,11 @@ Klíčové aplikační oblasti: lékařské zákroky (zásada informovaného sou
 - **ponižující zacházení** — útok na lidskou důstojnost vyvolávající pocit méněcennosti.
 
 K mezím přípustnosti důkazů získaných mučením („fruits of the poisonous tree“) viz nálezy ÚS i judikaturu ESLP (Jalloh v. Germany).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 19/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-14_1) — nález, 27. 1. 2015
+  > „Ustanovení čl. 7 odst. 1 Listiny je konkretizací obecnější záruky ochrany soukromého a rodinného života před neoprávněným zasahováním, garantované v čl. 10 odst. 2 Listiny. Právo na nedotknutelnost osoby a jejího soukromí je významné již vzhledem ke svému umístění ve struktuře Listiny; jde o ustanovení v popředí úpravy základních lidských práv, jež má v hierarchickém uspořádání objektivních hodnot ústavního pořádku jako garance odrážející "klasické" základní právo vyšší váhu než oprávnění plynou…"
 
 ### Čl. 8 — Osobní svoboda
 
@@ -204,6 +229,13 @@ K této koncepci nález **Pl. ÚS 7/15** k otázce manželství a osvojení dět
 
 **Odst. 3 — informační sebeurčení.** Ústavní soud rozvinul koncepci **práva na informační sebeurčení** (informationelle Selbstbestimmung) z německé doktríny — viz **Pl. ÚS 24/10** a **Pl. ÚS 24/11** (Data retention I, II — zrušení plošného uchovávání provozních a lokalizačních údajů jako nepřiměřeného zásahu). Toto právo je dnes provedeno zákonem o zpracování osobních údajů (č. 110/2019 Sb.) a Nařízením GDPR (2016/679). Pro spzn k mlčenlivosti viz **Pl. ÚS 33/97** (advokátní mlčenlivost).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3333/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3333-11_2) — nález, 26. 9. 2013
+  > „základní bází, z níž vychází interpretace všech základních práv, je lidská důstojnost (čl. 10 odst. 1 Listiny), která mj. vylučuje, aby s člověkem bylo zacházeno jako s předmětem; jen garantování nedotknutelnosti lidské důstojnosti člověku umožňuje plně užívat své osobnosti. V žádném aplikačním postupu ani v žádném individuálním či v normativním aktu veřejné moci nesmí být obsaženo nic, co by porušovalo základní práva vyložená v hranicích lidské důstojnosti"
+- *ÚS* [IV.ÚS 23/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-23-05_2) — nález, 17. 7. 2007
+  > „Protože právo na osobní čest a dobrou pověst garantované čl. 10 odst. 1 Listiny (Úmluvou o ochraně lidských práv a základních svobod toto právo garantováno není) není omezitelné obyčejnými zákony, jejichž účel by Listina stanovila v podobě veřejných statků (tak jako např. u svobody projevu), je třeba možná omezení tohoto práva hledat v kategorii imanentních omezení, tj. omezení plynoucích přímo z ústavního pořádku samotného"
+
 ### Čl. 11 — Vlastnické právo
 
 > **Čl. 11**
@@ -225,6 +257,11 @@ K této koncepci nález **Pl. ÚS 7/15** k otázce manželství a osvojení dět
 
 **Odst. 5 — daňová výhrada zákona** (princip „no taxation without representation“). Daně a poplatky jen na základě zákona; podzákonný předpis je smí pouze provádět. K tomu **Pl. ÚS 7/03** (k poplatkům).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 24/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-14_1) — nález, 30. 6. 2015
+  > „při ukládání daní a poplatků je třeba přihlížet k ochraně vlastnického práva garantovaného čl. 11 odst. 1 Listiny. Tato úvaha se samozřejmě vztahuje i na nyní prováděný přezkum otázky ústavnosti právn…"
+
 ### Čl. 12 — Nedotknutelnost obydlí
 
 > **Čl. 12**
@@ -237,6 +274,11 @@ K této koncepci nález **Pl. ÚS 7/15** k otázce manželství a osvojení dět
 **Odst. 2** stanoví **kvalifikované záruky pro domovní prohlídku** — písemný a odůvodněný **soudcovský** příkaz; pravomoc je výhradně soudu (nikoli státního zástupce nebo policejního orgánu, s výjimkou § 83c tr. ř. — vstup do obydlí bez příkazu jen za přesně vymezených podmínek). K nutnosti řádného odůvodnění viz **Pl. ÚS 47/13** a další.
 
 **Odst. 3** umožňuje i jiné zásahy (kontroly hygienickou stanicí, vstupy policie za účelem odvrácení nebezpečí), avšak za podmínek **proporcionality** a **nezbytnosti v demokratické společnosti**. Druhá věta odst. 3 (od r. 2002) umožňuje vstupy správních orgánů do obydlí používaného i k podnikání — relevantní pro daňové kontroly, kontroly inspekce práce apod.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 3/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-3-09_1) — nález, 8. 6. 2010
+  > „Domovní svoboda jako ústavně zaručené právo plynoucí z čl. 12 Listiny svou povahou a významem spadá mezi základní lidská práva a svobody, neboť spolu se svobodou osobní a dalšími ústavně zaručenými základními právy dotváří osobnostní sféru jedince, jehož individuální integritu, jako zcela nezbytnou podmínku důstojné existence jedince a rozvoje lidského života vůbec, je nutno respektovat a důsledně chránit; zcela právem proto spadá tato ochrana pod ochranu ústavní, neboť - posuzováno jen z poněku…"
 
 ### Čl. 13 — Listovní a telekomunikační tajemství
 
@@ -251,6 +293,11 @@ Vrcholové aplikační oblasti:
 - **vyžadování provozních a lokalizačních údajů** — viz výše zmíněné nálezy o data retention; současný režim zákona o elektronických komunikacích.
 
 K mlčenlivosti advokáta jako kvalifikované formě ochrany komunikace klienta s obhájcem zásadní **Pl. ÚS 33/97**.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 615/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-615-06_1) — nález, 23. 5. 2007
+  > „Právo na ochranu tajemství zpráv podávaných telefonem, plynoucí z čl. 13 Listiny, spolu se svobodou osobní a dalšími ústavně zaručenými základními právy dotváří osobnostní sféru jedince, jehož individuální integritu, jako zcela nezbytnou podmínku jeho důstojné existence a rozvoje lidského života vůbec, je nutno respektovat a důsledně chránit na důkaz úcty k právům a svobodám člověka a občana (srov. nález sp. zn. IV. ÚS 536/2000 , N 29/21 SbNU 251)"
 
 ### Čl. 14 — Svoboda pohybu a pobytu
 
@@ -270,6 +317,13 @@ K mlčenlivosti advokáta jako kvalifikované formě ochrany komunikace klienta 
 **Odst. 4 — právo občana na vstup a zákaz vyhoštění** — odráží mezinárodněprávní standard (čl. 3 Protokolu č. 4 k EÚLP). Spolu s tím čl. 14 brání vydávání občanů ČR k trestnímu stíhání do cizích států (s výjimkou evropského zatýkacího rozkazu po nálezu **Pl. ÚS 66/04**, který umožnil eurokonformní výklad).
 
 **Odst. 5 — vyhoštění cizinců** — jen zákonné důvody; trestní vyhoštění upravuje § 80 tr. zákoníku, správní vyhoštění zákon o pobytu cizinců (č. 326/1999 Sb.). Vždy nutno respektovat zásadu **non-refoulement** (čl. 3 EÚLP, čl. 33 Ženevské úmluvy 1951).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 18/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-18-07_1) — nález, 15. 9. 2009
+  > „svoboda pohybu, zaručená čl. 14 Listiny základních práv a svobod, je jedním ze základních lidských práv a podle čl. 4 Ústavy České republiky je pod ochranou soudní moci. Práv plynoucích ze svobody pohybu se lze domáhat přímo, bezprostředně, nikoliv jen prostřednictvím zákonů, které by toto ustanovení prováděly. Ústavní záruky však nejsou neomezené; svoboda pohybu je limitována ústavními mezemi"
+- *ÚS* [Pl.ÚS 66/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-66-04) — nález, 3. 5. 2006
+  > „Ustanovení čl. 14 odst. 4 Listiny zakazuje nucení k opuštění vlasti bezvýjimečně, takže jeho eurokonformní výklad v tom smyslu, že nucené opuštění vlasti se za určitých okolností připouští, by byl evidentně výkladem jdoucím proti textu uvedeného článku. II. Rekapitulace podstatných částí vyjádření účastníků řízení 12. K výzvě Ústavního soudu podali jako účastníci řízení vyjádření podle § 69 zákona č. 182/1993 Sb"
 
 ### Čl. 15 — Svoboda myšlení, svědomí a náboženského vyznání; vědy a umění
 
@@ -336,6 +390,11 @@ K poměřování svobody projevu s ochranou osobnosti zásadní nálezy:
 
 **Odst. 5 — právo na informace o činnosti veřejné moci** — provedeno zákonem č. 106/1999 Sb., o svobodném přístupu k informacím. K transparentnosti veřejné správy nálezy **I. ÚS 517/10** a další.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 823/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-823-11_1) — nález, 6. 3. 2012
+  > „Výše vymezený svobodný projev se může dostat do konfliktu s jinými právními statky chráněnými ústavním pořádkem nebo se zákony vydanými za účelem, pro který lze svobodný projev omezit ve smyslu čl. 17 odst. 4 Listiny (jde o práva a svobody druhých, bezpečnost státu, veřejnou bezpečnost, ochranu veřejného zdraví a mravnosti). Ústavně zaručené právo vyjadřovat své názory je obsahově omezeno právy jiných, zejména právy uvedenými v čl"
+
 ### Čl. 18 — Petiční právo
 
 > **Čl. 18**
@@ -385,6 +444,11 @@ K otázkám kolize shromáždění (např. protestujících proti pochodu extrem
 
 **Odst. 4 — oddělení politických stran od státu.** Stát nesmí být politickou stranou ovládán a strany nesmí být státními subjekty (zákaz „dvojkolejnosti" typické pro komunistický režim). Souvisí s ústavním principem demokratického právního státu (čl. 1 Ústavy).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 34/03](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-34-03) — nález, 13. 12. 2006
+  > „…jako forma sdružovacího práva podléhá z hlediska potenciálního přezkumu Ústavním soudem kritériím, jež plynou z obsahu čl. 20 Listiny. Ústavní garance zakotvená v tomto ustanovení zaručuje právo sdružovat se a v tomto právu není vlastník pozemku omezován"
+
 ### Čl. 21 — Volební právo a přístup k veřejným funkcím
 
 > **Čl. 21**
@@ -407,6 +471,11 @@ K otázkám kolize shromáždění (např. protestujících proti pochodu extrem
 
 **Odst. 4 — rovný přístup k veřejným funkcím** (zákaz svévolného vylučování z kandidatury). Klíčové nálezy: **Pl. ÚS 73/04** (volební soudnictví), **Pl. ÚS 57/06** (přístup do politické soutěže), **Pl. ÚS 4/97** k pětiprocentní klauzuli (zachována, ale s mantinely).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 25/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-25-07_1) — nález, 13. 3. 2008
+  > „poměřoval proporcionalitu mezi právem na přístup k veřejným funkcím ve smyslu čl. 21 Listiny na jedné straně a principem ochrany demokracie na straně druhé. Dospěl k závěru, že převažuje veřejný zájem spočívající v ochraně demokra…"
+
 ### Čl. 22 — Garance pluralitní soutěže
 
 > **Čl. 22**
@@ -419,6 +488,11 @@ K otázkám kolize shromáždění (např. protestujících proti pochodu extrem
 - transparentnost financování stran.
 
 K tomu klíčový **Pl. ÚS 73/04** a další volební nálezy. Doktrinálně jde o tzv. **militant democracy** clause — demokracie schopná se bránit, avšak při zachování pluralismu.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-14_1) — nález, 19. 5. 2015
+  > „čl. 22 Listiny) jsou v demokratické společnosti přípustná s ohledem na legitimitu jimi sledovaného cíle, způsobilost tohoto cíle dosáhnout, jejich potřebnost a míru takového omezení, která má šetřit podstaty a smyslu těchto základních práv (čl. 4 odst. 4 Listiny) a nesmí měnit podstatné náležitosti demokratického právního státu (čl. 9 odst. 2 Ústavy)"
 
 ### Čl. 23 — Právo na odpor
 
@@ -434,6 +508,11 @@ K tomu klíčový **Pl. ÚS 73/04** a další volební nálezy. Doktrinálně jd
 Teprve při splnění všech tří předpokladů vzniká občanům právo na ozbrojený či neozbrojený odpor. Toto právo má charakter **ultima ratio** a v praxi nebylo v ČR nikdy uplatněno. Historicky navazuje na tradici práva odboje (např. proti hitlerovskému Německu — dekrety prezidenta republiky 1940–1945).
 
 Subjektem práva jsou **občané** (nikoli cizinci). Otázka, zda lze toto právo realizovat v ozbrojené formě, je předmětem doktrinálního sporu; převažuje názor, že ano, avšak při zachování proporcionality.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 27/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-27-09_1) — nález, 10. 9. 2009
+  > „k podstatným náležitostem demokratického právního státu ve smyslu čl. 9 odst. 2 a 3 Ústavy patří "především svrchovanost lidu a principy obsažené v čl. 5 a 6 Ústavy a přirozenoprávní ustanovení Listiny základních práv a svobod, která zakládají ústavní právo na odpor (čl. 23 Listiny)" (poznámka pod čarou č. 1), resp. vyjádřeno jinak, jsou tyto náležitosti "koncentrovány v několika článcích I. hlavy Ústavy a I. a V. hlavy Listiny a slavnostně prohlášeny v Preambuli Ústavy" (poznámka pod čarou č"
 
 ---
 
@@ -502,6 +581,11 @@ K Listinou předjímané právní úpravě se přidává **Rámcová úmluva o o
 
 **Odst. 4** — možnost odchylné úpravy pro cizince — odráží mezinárodní standard (státy mohou regulovat přístup cizinců k trhu práce). Limitováno právem EU pro občany Unie (volný pohyb pracovníků dle čl. 45 SFEU).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 13/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-13-09_1) — nález, 25. 1. 2011
+  > „nelze právo podnikat a provozovat jinou hospodářskou činnost ve smyslu čl. 26 Listiny chápat jako základní právo zcela oddělené od práv jiných, ale je nutno přihlížet i k jiným právům, např. k právu na soukromí podle čl. 7 odst. 1 Listiny"
+
 ### Čl. 27 — Koaliční svoboda a právo na stávku
 
 > **Čl. 27**
@@ -522,6 +606,11 @@ K Listinou předjímané právní úpravě se přidává **Rámcová úmluva o o
 **Odst. 3** — možná omezení dle obecné formule, zejména pro bezpečnostní složky.
 
 **Odst. 4 — právo na stávku.** Stávka je **ústavně zaručenou** formou hospodářského boje. **Vyloučení** se týká: soudců, státních zástupců (dříve „prokurátorů"), příslušníků ozbrojených sil a bezpečnostních sborů — z důvodu povahy jejich funkce. Pro ostatní platí zákonné podmínky (zákon č. 2/1991 Sb., o kolektivním vyjednávání) — stávka v rámci kolektivního sporu. K přípustnosti stávky **mimo kolektivní vyjednávání** (např. politická stávka) viz nález **Pl. ÚS 61/04** a další.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 61/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-61-04) — nález, 5. 10. 2006
+  > „Význam tohoto práva, resp. síla jeho ústavní garance je ovšem relativizována: ustanovení čl. 27 odst. 4 Listiny výslovně předpokládá, že podmínky výkonu práva na stávku stanoví zákon, a podle ustanovení čl. 41 odst. 1 Listiny se lze práv podle zde vyjmenovaných článků Listiny, tj. i práva na stávku, domáhat pouze v mezích zákonů, které tato ustanovení provádějí. Jinak text Listiny zákonodárce při stanovení mezí a podmínek výkonu práva na stávku konkrétněji nesvazuje"
 
 ### Čl. 28 — Právo na spravedlivou odměnu a uspokojivé pracovní podmínky
 
@@ -571,6 +660,11 @@ Subjektem jsou **občané** (avšak v rámci práva EU se rozšiřuje na občany
 
 K esenci sociálních práv (která nelze omezit ani zákonem) viz **Pl. ÚS 1/08** (tzv. „třicetikorunové" poplatky ve zdravotnictví) a **Pl. ÚS 8/07** (důchodová reforma).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 8/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-8-07_1) — nález, 23. 3. 2010
+  > „…je potom oním korektivem "přiměřenost" minimálního hmotného zabezpečení, tedy nejen ve smyslu eliminace chudoby, ale i zajištění důstojné životní úrovně pro nízkopříjmové pojištěnce"
+
 ### Čl. 31 — Právo na ochranu zdraví
 
 > **Čl. 31**
@@ -585,6 +679,11 @@ K esenci sociálních práv (která nelze omezit ani zákonem) viz **Pl. ÚS 1/0
 Klíčový **Pl. ÚS 1/08** — ÚS shledal ústavně konformními tehdejší regulační poplatky (30 Kč / 60 Kč / 90 Kč), avšak za podmínky, že nezasahují do jádra (esence) práva — nepřiměřená spoluúčast by byla protiústavní (pozdější rozšíření poplatků pak ÚS v **Pl. ÚS 36/11** částečně zrušil pro pobytové poplatky).
 
 Podle koncepce ÚS je esencí čl. 31 zajištění **dostupné základní zdravotní péče** každému pojištěnci tak, aby nezůstal bez nezbytné péče z důvodu finanční tísně.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 1/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-1-08_1) — nález, 20. 5. 2008
+  > „Smyslem a účelem čl. 31 Listiny a v něm zakotveného jednoho z ústavním pořádkem garantovaných sociálních práv je zajistit všem občanům (dle čl. 3 odst. 1 Listiny rovněž bez rozdílu jejich sociálního původu a majetku) lidsky důstojnou úroveň zdravotní péče systémem veřejného zdravotního pojištění, jenž by měl být založen na sladění principů individuálního pojištění a sociální solidarity. Nutno zopakovat, že interpretace čl. 31 Listiny musí kromě čl. 41 odst. 1 zohlednit i čl. 4 odst. 4 Listiny"
 
 ### Čl. 32 — Ochrana rodičovství, rodiny a dětí
 
@@ -732,6 +831,11 @@ Klíčové: rozvrh práce soudu (Geschäftsverteilungsplan) musí být **transpa
 
 K problematice průtahů v řízení rozsáhlá judikatura ÚS k zákonu č. 82/1998 Sb. (zadostiučinění).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1589/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1589-13_1) — nález, 21. 1. 2015
+  > „účelem a smyslem ústavně zaručeného práva na zákonného soudce je bránit libovůli a účelové manipulaci při přidělování věcí jednotlivým soudcům"
+
 ### Čl. 39 — Nullum crimen, nulla poena sine lege
 
 > **Čl. 39**
@@ -750,6 +854,13 @@ Klíčové aplikační oblasti:
 - **správní delikty / přestupky** — i na ně se princip vztahuje (Engel kritéria);
 - **disciplinární řízení** — k otázce uplatnění viz judikaturu;
 - **promlčení trestní odpovědnosti** — viz **Pl. ÚS 19/93** (legalizace trestnosti komunistických zločinů — zachování ústavní konformity).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 2258/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2258-14_1) — nález, 16. 12. 2014
+  > „Výhrada zákona při označení trestnosti jednání dle čl. 39 Listiny v sobě odráží příkaz nullum crimen sine lege, který je nutno chápat jako provedení zásady právní jistoty, zákazu libovůle a rovnosti před zákonem v oblasti trestního práva"
+- *ÚS* [III.ÚS 2301/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2301-14_1) — nález, 19. 2. 2015
+  > „Z hlediska výkladu pojmu "zákon" v čl. 39 Listiny musí proto platit osvědčené zásady plynoucí již z principů právního státu, podle kterých by taková lex měla zároveň splňovat zásady, podle kterých musí být scripta (ne obyčej), stricta (ne analogie), certa (příkaz určitosti, ne gumové klauzule) a praevia (zákaz retroaktivita)"
 
 ### Čl. 40 — Procesní záruky v trestním řízení
 
@@ -783,6 +894,11 @@ Klíčové aplikační oblasti:
 
 Viz též čl. 5 odst. 1 ústavního zákona č. 1/1993 Sb. (Ústava) a princip nepromlčitelnosti zločinů proti lidskosti dle Mezinárodního statutu ICC.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 564/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-564-08_1) — nález, 22. 5. 2012
+  > „porušení zásady presumpce neviny ve smyslu čl. 40 odst. 2 Listiny základních práv a svobod a od ní se odvíjejícího subprincipu rozhodování in dubio pro reo. K trestnímu stíhání a odsouzení stěžovatele tedy došlo v rozporu se zásadou zakotvenou v čl. 8 odst. 2 Listiny"
+
 ---
 
 ## HLAVA ŠESTÁ — Ustanovení společná
@@ -813,6 +929,11 @@ Viz též čl. 5 odst. 1 ústavního zákona č. 1/1993 Sb. (Ústava) a princip 
 Tento přístup respektuje rozhodovací prostor zákonodárce ohledně sociální politiky a jejích finančních dopadů.
 
 **Odst. 2** — interpretační pravidlo z federálního období; dnes se odkazem na „zákon" rozumí **zákon Parlamentu ČR** (Ústava ČR, čl. 15). Ustanovení je v současnosti obsoletní v původním slova smyslu, fakticky však zachovává princip, že úprava základních práv je vyhrazena formálnímu zákonu.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 38/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-23_1) — nález, 6. 12. 2023
+  > „Sociální práva totiž spadají do tzv. pozitivního statusu, kdy jejich podstatou je právo jednotlivce na pozitivní plnění ze strany státu, a současně se lze těchto práv domáhat pouze v mezích zákonů, které je provádějí"
 
 ### Čl. 42 — Pojem „občan" a postavení cizinců
 

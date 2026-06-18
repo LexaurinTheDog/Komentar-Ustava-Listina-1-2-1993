@@ -103,6 +103,11 @@ Pojem **„ústavní pořádek“** je definován **Čl. 112 odst. 1 Ústavy** a
 
 Čl. 5 chrání **stranickou autonomii** — stát nesmí zasahovat do vnitřních záležitostí stran nad rámec zákonných limitů (financování, transparence, zákaz použití násilí).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 26/94](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-94) — nález, 18. 10. 1995
+  > „Tomu, aby vůbec vznikly demokratické státní orgány, musí předcházet volná soutěž autonomních, na státu nezávislých politických stran, neboť teprve ve výsledcích této soutěže se formují politické kontury a proporce státu. Politické strany se v této své základní funkci pohybují jaksi v předpolí státu…"
+
 ### Čl. 6 — Většinové rozhodování a ochrana menšin
 
 > **Čl. 6**
@@ -118,6 +123,11 @@ Ochrana menšin se projevuje zejména:
 - ústavně zaručeným postavením národnostních a etnických menšin (čl. 24–25 Listiny);
 - procedurální ochranou v Parlamentu (právo iniciativy menšiny 1/5 poslanců — Čl. 30 odst. 1, návrh na ÚS — čl. 87 odst. 1 písm. a) Ústavy ve spojení s § 64 zákona o ÚS);
 - materiálním jádrem Ústavy (Čl. 9 odst. 2), které brání většině zrušit demokratické instituce.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 47/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-47-23_1) — nález, 4. 6. 2025
+  > „Ústavní soud v nálezu sp. zn. Pl. ÚS 55/10 kladl důraz na princip většinového rozhodování a od něj neoddělitelný princip ochrany menšin (čl. 6 Ústavy), jež jsou na parlamentní půdě představovány parlamentní opozicí, přičemž „mezi její základní funkce patří zejména artikulace menšinových názorů, předkládání alternativních návrhů k většinovým stanoviskům a rozhodnutím a kontrola vládnoucí většiny, to vše před zraky veřejnosti…“"
 
 ### Čl. 7 — Ochrana přírodního bohatství
 
@@ -189,6 +199,13 @@ Nález vyvolal odbornou diskusi (kritika: ÚS „překračuje“ své kompetence
 
 **Odst. 3** — **zákaz výkladu** norem směřujícího k odstranění či ohrožení základů demokratického státu. Toto ustanovení slouží jako interpretační vodítko pro všechny státní orgány, zejména soudy. Inspirací bylo zneužití formálně-pozitivistického výkladu v období nacismu a komunismu.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 23/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-23-09_1) — nález, 15. 5. 2012
+  > „Dle konstantní judikatury Ústavního soudu je princip nezávislého soudnictví jednou z podstatných náležitostí demokratického právního státu ve smyslu čl. 9 odst. 2 Ústavy"
+- *ÚS* [Pl.ÚS 33/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-33-11_1) — nález, 3. 5. 2012
+  > „Dle uvedené judikatury Ústavního soudu princip nezávislého soudnictví je jednou z podstatných náležitostí demokratického právního státu (čl. 9 odst. 2 Ústavy). Požadavek nezávislé justice pramení ze dvou zdrojů: z neutrality soudců, jako garance rovných šancí stran… (a z ochrany před nepřípustným tlakem moci zákonodárné a moci výkonné na moc soudní)"
+
 ### Čl. 10 — Mezinárodní smlouvy a aplikační přednost
 
 > **Čl. 10**
@@ -235,6 +252,13 @@ Ratifikace vyžaduje **kvalifikovanou většinu** (Čl. 39 odst. 4 — třípět
 3. ÚS přijal koncept **kooperativního konstitucionalismu** — soudní dialog mezi Ústavním soudem ČR, Soudním dvorem EU a Evropským soudem pro lidská práva.
 
 Lisabon I a Lisabon II tvoří **základ doktríny ústavního pluralismu** v české jurisprudenci a vymezují rámec pro budoucí integrační kroky.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 19/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-08_1) — nález, 26. 11. 2008
+  > „…propůjčení části pravomocí České republiky orgánům ES je propůjčením podmíněným a může trvat potud, pokud jsou tyto pravomoci vykonávány těmito orgány způsobem slučitelným s uchováním základů státní suverenity České republiky a způsobem, jenž neohrožuje samu podstatu materiálního právního státu"
+- *ÚS* [Pl.ÚS 5/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-12_1) — nález, 31. 1. 2012
+  > „Rámec své kontroly výkonu přenesených kompetencí orgány Evropské unie přitom vymezil třemi oblastmi: nefunkčností jejích institucí, ochranou materiálního ohniska Ústavy, a to nejen ve vztahu k evropskému právu, nýbrž i k jeho konkrétní aplikaci, a konečně působením jako ultima ratio, tj. oprávněním zkoumat, zda některý akt orgánů Evropské unie nevybočil z pravomocí, které Česká republika podle čl. 10a Ústavy na Evropskou unii přenesla"
 
 ### Čl. 10b — Informování Parlamentu o EU
 
@@ -290,6 +314,11 @@ Občanství lze pozbýt:
 - nelze ho však odejmout sankcí (např. za trestný čin, byť by se jednalo o vlastizradu).
 
 Pl.ÚS 9/95: ÚS chránil občanství jako základní právo proti retroaktivním zásahům.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 5/95](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-95) — nález, 8. 11. 1995
+  > „Ústavní soud považuje za podstatné - a na to je třeba klást důraz - že k nabytí cizího státního občanství podle § 17 cit. zákona dochází vlastním projevem vůle občana (žadatele) a že zákonným následkem takového projevu vůle je ztráta státního občanství České republiky"
 
 ### Čl. 13 — Hlavní město
 
@@ -400,6 +429,11 @@ Odst. 3 — **volby do Senátu** pevně stanoveny na první celý týden října
 **Většinový dvoukolový systém pro Senát** — 81 jednomandátových obvodů, kandidát potřebuje v 1. kole nadpoloviční většinu hlasů, jinak postupují 2 nejúspěšnější do 2. kola (per analogiam Čl. 56 odst. 2 pro prezidenta).
 
 Odst. 3 — **aktivní volební právo** od **18 let** pro všechny občany ČR (bez ohledu na bydliště — voliči v zahraničí se připisují ke krajskému obvodu Praha pro volby do PS; do Senátu volí pouze v ČR).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 25/96](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-25-96) — nález, 2. 4. 1997
+  > „Proto volební zákon může vzhledem k šíři zmocnění limitovat zásadu poměrného zastoupení i tzv. uzavírací klauzulí, pomocí níž se má zabránit přítomnosti mnoha politických stran s velmi nízkým počtem mandátů v Poslanecké sněmovně, což by značně ztížilo její činnost a zkomplikovalo vytvoření stabilní vlády"
 
 ### Čl. 19 — Pasivní volební právo a vznik mandátu
 
@@ -556,6 +590,11 @@ Důsledky:
 
 Princip pochází z francouzské revoluce (Sieyès) a stojí v opozici k imperativnímu mandátu (vázanost na vůli voličů, charakteristická pro stavovské či sovětské zastupování). Klíčový je morální závazek slibu (Čl. 23) a politická odpovědnost ve volbách.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 47/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-47-23_1) — nález, 4. 6. 2025
+  > „Respektován musí být dále ústavně zakotvený princip reprezentativní demokracie (čl. 2 odst. 1 Ústavy), založené na svobodném výkonu mandátu členů parlamentu (princip volného mandátu, čl. 26 Ústavy), na rovnosti členů parlamentu jako reprezentantů lidu, na jejich svobodě parlamentní řeči (čl. 27 odst. 2 Ústavy) a na svobodné parlamentní rozpravě"
+
 ### Čl. 27 — Imunita poslance a senátora
 
 > **Čl. 27**
@@ -592,6 +631,11 @@ Po **novele ústavním zákonem č. 98/2013 Sb.** byla výrazně **zúžena**:
 Indemnita za přestupky (odst. 3) byla rovněž zúžena novelou č. 98/2013 Sb. — komora má disciplinární pravomoc, pokud zákon nestanoví jinak (nyní lze poslance v některých případech projednat běžným orgánem, např. pro dopravní přestupky).
 
 Smysl imunity: nikoli osobní privilegium, ale **funkční ochrana svobody výkonu mandátu** před šikanózním stíháním ze strany exekutivy či politicky motivovanými žalobami.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 3018/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3018-14_1) — nález, 16. 6. 2015
+  > „Smyslem indemnity je totiž právě to, aby nebylo poslancům a senátorům bráněno ve výkonu jejich mandátu… (jejím účelem je zachování svobodné a otevřené výměny názorů v nejvyšším debatním fóru v zemi, autonomie Parlamentu a ochrana opozice). Indemnita tak chrání Parlament jako fórum (funkční pojetí), a nikoliv jako místo (teritoriální pojetí)"
 
 ### Čl. 28 — Právo odepřít svědectví
 
@@ -634,6 +678,11 @@ Volební procedura je upravena jednacími řády obou komor (zákon č. 90/1995 
 **Vyšetřovací komise PS** je významným kontrolním nástrojem v rukou parlamentní menšiny — návrh stačí **1/5 poslanců** (40 ze 200). Návrh je dále schvalován prostou většinou, ale aktivně může být iniciován i opozicí. Komise vyšetřuje věci veřejného zájmu, slyší svědky, žádá podklady.
 
 Příklady historických komisí: kauza Diag Human, kauza OKD, kauza Vrbětice. Závěry komise jsou typicky publikovány ve sněmovně, sami neukládají sankce, ale mohou iniciovat trestní oznámení.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 27/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-27-24_1) — usnesení, 19. 2. 2025
+  > „Účelem vyšetřovací komise je „vyšetření věci veřejného zájmu“ (čl. 30 odst. 1 Ústavy), nikoli vyšetřování věci v trestněprávním smyslu slova se všemi jeho důsledky. Řízení před vyšetřovací komisí není trestním či správním řízením… povaha a role tohoto orgánu je ryze politická"
 
 ### Čl. 31 — Výbory a komise
 
